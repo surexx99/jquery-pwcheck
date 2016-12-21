@@ -1,0 +1,16 @@
+.pw_level{height:30px;width:180px;overflow:hidden;margin-left:10px;float:left;}
+.pw_level .pw_grap_box{position:relative;height:14px;background:#fff;border-radius:7px;width:100%;border:1px solid #ccc;}
+.pw_level .pw_grap_box .pw_grap_tab{position:absolute;top:3px;left:0;overflow:hidden;}
+.pw_level .pw_grap_box .pw_grap_bot{z-index:1;width:100%;}
+.pw_level .pw_grap_box .pw_grap_top{z-index:2;width:0;}
+.pw_level .pw_text_box{position:relative;height:16px;width:100%;}
+.pw_level .pw_grap_box .pw_grap_tab table{margin-left:3px;}
+.pw_level .pw_text_box table td{text-align:center;font-size:12px;color:#333;line-height:16px;}
+
+
+/*公共样式部分*/
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,acronym,address,cite,code,del,dfn,em,font,img,strong,sub,sup,b,i,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,input{margin:0;padding:0;border:0;}
+.pw_inputstyle{padding:0;margin:0;background:none;height:28px;line-height:28px;font-size:12px;padding-left:8px;vertical-align:middle;color:#333;border:1px solid #abadb3;}
+.w180{width:180px;}
+.fl{float:left;}
+.clear{height:0;clear:both;visibility:hidden;}
